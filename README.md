@@ -86,10 +86,4 @@ Once the installation is complete, follow these steps to use the Bookstore Manag
 4. Register customers, add books to inventory, and manage sales and purchases.
 5. Explore the reporting features to gain insights into business performance.
    
-## Authors
 
-- [Jonas Machado](https://github.com/jonasmachados)
-
-## Contact
-
-For inquiries, please contact the project maintainers at [jonasmachado.ti@gmail.com](mailto:jonasmachado.ti@gmail.com).
